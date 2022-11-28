@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".politicas">
+
+    <TextView
+        android:id="@+id/txtpregunta"
+        android:layout_width="416dp"
+        android:layout_height="115dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/qu_es_ormed"
+        android:textAlignment="center"
+        android:textColor="#00FFE7"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.046" />
+
+    <TextView
+        android:id="@+id/txtrespuesta"
+        android:layout_width="0dp"
+        android:layout_height="484dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/ormed_es_una_app_que_facilita_a_usuarios_encontrar_y_conocer_m_s_sobre_los_centros_medicos_de_su_localidad_esta_app_fue_creada_solo_con_fines_de_estudio_no_se_busca_obtener_ningun_beneficio_monetario_con_esta"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtpregunta"
+        app:layout_constraintVertical_bias="0.089" />
+
+    <Button
+        android:id="@+id/btnsalirpoliticas"
+        android:layout_width="367dp"
+        android:layout_height="72dp"
+        android:backgroundTint="#00FFE7"
+        android:fontFamily="sans-serif-black"
+        android:onClick="salirpoliticas"
+        android:text="@string/volver"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtrespuesta"
+        app:layout_constraintVertical_bias="0.318" />
+</androidx.constraintlayout.widget.ConstraintLayout>

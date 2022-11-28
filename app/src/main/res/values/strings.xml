@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ormedcl</string>
+    <string name="fondomain">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="icono">TODO</string>
+    <string name="ormed">ORMED</string>
+    <string name="menu_principal">MENU PRINCIPAL</string>
+    <string name="creditos">CREDITOS</string>
+    <string name="politicas">POLITICAS</string>
+    <string name="salir_de_la_app">SALIR DE LA APP</string>
+    <string name="mapa">MAPA</string>
+    <string name="base_de_datos_chillan">BASE DE DATOS CHILLAN</string>
+    <string name="volver">VOLVER</string>
+    <string name="qu_es_ormed">¿Qué es ORMED?</string>
+    <string name="ormed_es_una_app_que_facilita_a_usuarios_encontrar_y_conocer_m_s_sobre_los_centros_medicos_de_su_localidad_esta_app_fue_creada_solo_con_fines_de_estudio_no_se_busca_obtener_ningun_beneficio_monetario_con_esta">ORMED es una app que facilita a usuarios encontrar y conocer más sobre los centros medicos de su localidad, esta app fue creada solo con fines de estudio, no se busca obtener ningun beneficio monetario con esta.</string>
+    <string name="credits">Creditos</string>
+    <string name="pixabay_pixabay_es_una_p_gina_que_te_facilita_la_obtenci_n_de_imagenes_de_descarga_gratuita_para_diferentes_tipos_de_trabajos">Pixabay: Pixabay es una página que te facilita la obtención de imagenes de descarga gratuita para diferentes tipos de trabajos.</string>
+    <string name="flaticon_flaticon_es_una_p_gina_encargada_de_entregar_todo_tipo_de_iconos_personalizables_en_base_a_las_necesidades_del_usuario_y_para_mejor_es_gratuita">Flaticon: Flaticon es una página encargada de entregar todo tipo de iconos personalizables en base a las necesidades del usuario y para mejor es gratuita.</string>
+    <string name="title_activity_mapa">mapa</string>
+    <string name="nombre_del_centro_medico">Nombre Del Centro Medico:</string>
+    <string name="direcci_n_p_gina">Dirección página:</string>
+    <string name="p_ginas_de_centros_medicos">PÁGINAS DE CENTROS MEDICOS</string>
+    <string name="edit_done">Edit Done</string>
+    <string name="edit_don">Edit Done</string>
+    <string name="edit_do">Edit Done</string>
+</resources>

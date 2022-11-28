@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293902040320",
+    "firebase_url": "https://ormedbetafinal-default-rtdb.firebaseio.com",
+    "project_id": "ormedbetafinal",
+    "storage_bucket": "ormedbetafinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293902040320:android:e1196431e63b2ae3f3c7e5",
+        "android_client_info": {
+          "package_name": "cl.carlosyanezbarrios.ormedcl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293902040320-pkcrku1c9pqjh70mn2gtki0u6mhvbuvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.carlosyanezbarrios.ormedcl",
+            "certificate_hash": "ccfc226a2042fbf1d98fa1cb06b58a09e5bb6e59"
+          }
+        },
+        {
+          "client_id": "293902040320-8nt8oqq3bl85uc3q2a7pjlf5t70mv14d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmYZDVdDLkyn3ml6GAPLOn75zIDBZSEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293902040320-8nt8oqq3bl85uc3q2a7pjlf5t70mv14d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
